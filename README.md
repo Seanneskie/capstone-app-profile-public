@@ -90,7 +90,7 @@ capstone-app-profile/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Seanneskie/capstone-app-profile.git
+   git clone https://github.com/Seanneskie/capstone-app-profile-public.git
    cd capstone-app-profile
    ```
 2. **Create and activate a virtual environment**
